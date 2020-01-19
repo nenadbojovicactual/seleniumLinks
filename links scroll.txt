@@ -1,0 +1,9 @@
+
+https://intellipaat.com/community/13608/how-to-scroll-a-specific-div-using-selenium-webdriver-with-java
+https://sqa.stackexchange.com/questions/14837/webdriver-how-to-perform-scroll-down-an-element-example-div-using-selenium
+https://stackoverflow.com/questions/42482712/how-to-scroll-to-a-particular-element-in-selenium-webdriver-java-with-the-fixed
+https://www.edureka.co/community/2054/need-to-scroll-down-for-locating-an-element-with-selenium
+https://intellipaat.com/community/16503/how-to-scroll-to-element-with-selenium-webdriver-using-c
+https://github.com/SeleniumHQ/selenium/issues/4148
+https://www.manongdao.com/article-360560.html
+https://developers.perfectomobile.com/pages/viewpage.action?pageId=38011305
